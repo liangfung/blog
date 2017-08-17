@@ -6,3 +6,4 @@
 
 ## underscore源码分析
 1. [underscore源码学习（一）](https://github.com/liangfung/blog/issues/3)
+2. [underscore源码学习（二）--each和最大安全整数](https://github.com/liangfung/blog/issues/4)

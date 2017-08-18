@@ -1,6 +1,6 @@
 # blog
 
-## javscript
+## javascript
 1. [《JS精粹》笔记（一）](https://github.com/liangfung/blog/issues/5)
 
 ## nodejs

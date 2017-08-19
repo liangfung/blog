@@ -2,6 +2,7 @@
 
 ## javascript
 1. [《JS精粹》笔记（一）对象和this](https://github.com/liangfung/blog/issues/5)
+2. [for...of循环和自己实现@@interator](https://github.com/liangfung/blog/issues/6)
 
 ## nodejs
 1. [node模块机制(一)](https://github.com/liangfung/blog/issues/1)

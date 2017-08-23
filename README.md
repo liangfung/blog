@@ -1,4 +1,5 @@
 # blog
+持续更新中
 
 ## javascript
 1. [《JS精粹》笔记（一）对象和this](https://github.com/liangfung/blog/issues/5)

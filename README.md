@@ -5,6 +5,7 @@
 1. [《JS精粹》笔记（一）对象和this](https://github.com/liangfung/blog/issues/5)
 2. [for...of循环和自己实现@@interator](https://github.com/liangfung/blog/issues/6)
 3. [JS高阶函数及提升代码思维](https://github.com/liangfung/blog/issues/8)
+4. [JS性能提升--记忆](https://github.com/liangfung/blog/issues/9)
 
 ## nodejs
 1. [node模块机制(一)](https://github.com/liangfung/blog/issues/1)

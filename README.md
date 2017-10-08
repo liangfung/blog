@@ -12,6 +12,7 @@
 2. [AMD规范](https://github.com/liangfung/blog/issues/10)
 
 ## JS设计模式
+> 此处戳 [javascript设计模式读书笔记](https://github.com/liangfung/javascript-design-partner-reading)
 1. [JS设计模式一：从工厂模式和构造函数说起](https://github.com/liangfung/blog/issues/12)
 
 ## nodejs

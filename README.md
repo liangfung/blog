@@ -11,6 +11,9 @@
 1. [什么是模块](https://github.com/liangfung/blog/issues/11)
 2. [AMD规范](https://github.com/liangfung/blog/issues/10)
 
+## JS设计模式
+1. [JS设计模式一：从工厂模式和构造函数说起](https://github.com/liangfung/blog/issues/12)
+
 ## nodejs
 1. [node模块机制(一)](https://github.com/liangfung/blog/issues/1)
 2. [node模块机制（二）--包和ADM](https://github.com/liangfung/blog/issues/2)

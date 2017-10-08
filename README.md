@@ -8,7 +8,8 @@
 4. [JS性能提升--记忆](https://github.com/liangfung/blog/issues/9)
 
 ## 模块化
-1. [AMD规范](https://github.com/liangfung/blog/issues/10)
+1. [什么是模块](https://github.com/liangfung/blog/issues/11)
+2. [AMD规范](https://github.com/liangfung/blog/issues/10)
 
 ## nodejs
 1. [node模块机制(一)](https://github.com/liangfung/blog/issues/1)

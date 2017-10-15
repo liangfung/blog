@@ -1,3 +1,4 @@
+
 # blog
 持续更新中
 
@@ -25,3 +26,6 @@
 
 ## 计算机
 1. [计算机如何存数据](https://github.com/liangfung/blog/issues/7)
+
+## 性能优化
+1. [DOM重新学习一]()

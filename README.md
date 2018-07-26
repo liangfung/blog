@@ -6,6 +6,7 @@
 2. [for...of循环和自己实现@@interator](https://github.com/liangfung/blog/issues/6)
 3. [JS高阶函数及提升代码思维](https://github.com/liangfung/blog/issues/8)
 4. [JS性能提升--记忆](https://github.com/liangfung/blog/issues/9)
+5. [深拷贝和浅拷贝](https://github.com/liangfung/blog/issues/15)
 
 ## 模块化
 1. [什么是模块](https://github.com/liangfung/blog/issues/11)

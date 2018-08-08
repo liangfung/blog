@@ -29,3 +29,6 @@
 
 ## 性能优化
 1. [DOM重新学习一](https://github.com/liangfung/blog/issues/13)
+
+## 备忘
+1. [bash常用命令行](https://github.com/liangfung/blog/issues/17)
